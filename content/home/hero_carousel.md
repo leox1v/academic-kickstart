@@ -1,17 +1,19 @@
 +++
-# Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+# Hero Carousel widget.
+widget = "hero_carousel"
+active = false
+date = 2017-10-15T00:00:00
+
+# Order that this section will appear in.
+weight = 1
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval = false
 
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -51,4 +53,5 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
 +++
