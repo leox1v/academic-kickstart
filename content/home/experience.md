@@ -18,14 +18,14 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-#[[experience]]
-#  title = "Research Intern"
-#  company = "Google Zurich"
-#  company_url = ""
-#  location = "Zurich, Switzerland"
-#  date_start = "2020-03-02"
-#  date_end = ""
-#  description = ""
+[[experience]]
+  title = "Research Intern"
+  company = "Google Zurich"
+  company_url = ""
+  location = "Zurich, Switzerland"
+  date_start = "2020-03-02"
+  date_end = "2020-07-31"
+  description = ""
 
 [[experience]]
   title = "PhD Student"
