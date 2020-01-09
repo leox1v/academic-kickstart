@@ -22,7 +22,7 @@ publication = "AISTATS 2019"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Gradient-based optimization methods are the most popular choice for ﬁnding local optima for classical minimization and saddle point problems. Here, we highlight a systemic issue of gradient dynamics that arise for saddle point problems, namely the presence of undesired stable stationary points that are no local optima. We propose a novel optimization approach that exploits curvature information in order to escape from these undesired stationary points. We prove that diﬀerent optimization methods, including gradient method and Adagrad, equipped with curvature exploitation can escape non-optimal stationary points. We also provide empirical results on common saddle point problems which conﬁrm the advantage of using curvature exploitation."
+abstract = "AISTATS 2019<br /><br />Gradient-based optimization methods are the most popular choice for ﬁnding local optima for classical minimization and saddle point problems. Here, we highlight a systemic issue of gradient dynamics that arise for saddle point problems, namely the presence of undesired stable stationary points that are no local optima. We propose a novel optimization approach that exploits curvature information in order to escape from these undesired stationary points. We prove that diﬀerent optimization methods, including gradient method and Adagrad, equipped with curvature exploitation can escape non-optimal stationary points. We also provide empirical results on common saddle point problems which conﬁrm the advantage of using curvature exploitation."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -52,14 +52,14 @@ tags = []
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1805.05751"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "https://www.youtube.com/watch?v=Ty9LrkqRFdg&t=185s"
+url_poster = "poster/local_saddle_opt.pdf"
 url_source = ""
 
 [[url_custom]]

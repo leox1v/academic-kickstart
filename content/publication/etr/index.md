@@ -20,7 +20,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We investigate the use of ellipsoidal trust region constraints for second-order optimization of neural networks. This approach can be seen as a higher-order counterpart of adaptive gradient methods, which we here show to be interpretable as first-order trust region methods with ellipsoidal constraints. In particular, we show that the preconditioning matrix used in RMSProp and Adam satisfies the necessary conditions for convergence of (first- and) second-order trust region methods and report that this ellipsoidal constraint constantly outperforms its spherical counterpart in practice. We furthermore set out to clarify the long-standing question of the potential superiority of Newton methods in deep learning. In this regard, we run extensive benchmarks across different datasets and architectures to find that comparable performance to gradient descent algorithms can be achieved but using Hessian information does not give rise to better limit points and comes at the cost of increased hyperparameter tuning."
+abstract = "NeurIPS 2019 Workshop: Beyond First-Order Methods in ML <br /><br />We investigate the use of ellipsoidal trust region constraints for second-order optimization of neural networks. This approach can be seen as a higher-order counterpart of adaptive gradient methods, which we here show to be interpretable as first-order trust region methods with ellipsoidal constraints. In particular, we show that the preconditioning matrix used in RMSProp and Adam satisfies the necessary conditions for convergence of (first- and) second-order trust region methods and report that this ellipsoidal constraint constantly outperforms its spherical counterpart in practice. We furthermore set out to clarify the long-standing question of the potential superiority of Newton methods in deep learning. In this regard, we run extensive benchmarks across different datasets and architectures to find that comparable performance to gradient descent algorithms can be achieved but using Hessian information does not give rise to better limit points and comes at the cost of increased hyperparameter tuning."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
@@ -47,14 +47,14 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1905.09201"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "presentations/etr.pdf"
 url_video = ""
-url_poster = ""
+url_poster = "poster/etr.pdf"
 url_source = ""
 
 # Custom links (optional).

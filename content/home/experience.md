@@ -18,6 +18,15 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+#[[experience]]
+#  title = "Research Intern"
+#  company = "Google Zurich"
+#  company_url = ""
+#  location = "Zurich, Switzerland"
+#  date_start = "2020-03-02"
+#  date_end = ""
+#  description = ""
+
 [[experience]]
   title = "PhD Student"
   company = "Data Analytics Lab, ETH Zurich"
@@ -26,9 +35,10 @@ date_format = "January 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  Research:
+  Research Interests:
   
   * Natural Language Processing
+  * Reinforcement Learning
   * Non-Convex Optimization
   """
 

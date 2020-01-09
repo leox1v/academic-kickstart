@@ -11,7 +11,7 @@ weight = 15
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   organization = "ETH Zurich"
   certificate_url = ""
   date_start = "2019-02-01"
-  date_end = "2019-06-01"
+  #date_end = "2019-06-01"
   description = ""
 
 [[item]]
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   organization = "ETH Zurich"
   certificate_url = ""
   date_start = "2018-09-01"
-  date_end = "2018-12-01"
+  date_end = "2019-12-01"
   description = ""
 
 [[item]]
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   organization = "ETH Zurich"
   certificate_url = ""
   date_start = "2017-09-01"
-  date_end = "2017-12-01"
+  #date_end = "2017-12-01"
   description = ""
   
 

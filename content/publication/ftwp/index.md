@@ -22,11 +22,11 @@ publication = "Thirty-Fourth AAAI Conference on Artificial Intelligence"
 publication_short = "AAAI"
 
 # Abstract and optional shortened version.
-abstract = "While Reinforcement Learning (RL) approaches lead to significant achievements in a variety of areas in recent history, natural language tasks remained mostly unaffected, due to the compositional and combinatorial nature that makes them notoriously hard to optimize. With the emerging field of Text-Based Games (TBGs), researchers try to bridge this gap. Inspired by the success of RL algorithms on Atari games, the idea is to develop new methods in a restricted game world and then gradually move to more complex environments. Previous work in the area of TBGs has mainly focused on solving individual games. We, however, consider the task of designing an agent that not just succeeds in a single game, but performs well across a whole family of games, sharing the same theme. In this work, we present our deep RL agent---LeDeepChef---that shows generalization capabilities to never-before-seen games of the same family with different environments and task descriptions. The agent participated in Microsoft Research's *First TextWorld Problems: A Language and Reinforcement Learning Challenge* and outperformed all but one competitor on the final test set. The games from the challenge all share the same theme, namely cooking in a modern house environment, but differ significantly in the arrangement of the rooms, the presented objects, and the specific goal (recipe to cook). To build an agent that achieves high scores across a whole family of games, we use an actor-critic framework and prune the action-space by using ideas from hierarchical reinforcement learning and a specialized module trained on a recipe database."
+abstract = "AAAI 2020<br /><br />While Reinforcement Learning (RL) approaches lead to significant achievements in a variety of areas in recent history, natural language tasks remained mostly unaffected, due to the compositional and combinatorial nature that makes them notoriously hard to optimize. With the emerging field of Text-Based Games (TBGs), researchers try to bridge this gap. Inspired by the success of RL algorithms on Atari games, the idea is to develop new methods in a restricted game world and then gradually move to more complex environments. Previous work in the area of TBGs has mainly focused on solving individual games. We, however, consider the task of designing an agent that not just succeeds in a single game, but performs well across a whole family of games, sharing the same theme. In this work, we present our deep RL agent---LeDeepChef---that shows generalization capabilities to never-before-seen games of the same family with different environments and task descriptions. The agent participated in Microsoft Research's *First TextWorld Problems: A Language and Reinforcement Learning Challenge* and outperformed all but one competitor on the final test set. The games from the challenge all share the same theme, namely cooking in a modern house environment, but differ significantly in the arrangement of the rooms, the presented objects, and the specific goal (recipe to cook). To build an agent that achieves high scores across a whole family of games, we use an actor-critic framework and prune the action-space by using ideas from hierarchical reinforcement learning and a specialized module trained on a recipe database."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,17 +49,15 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "abc"
+url_pdf = "http://arxiv.org/abs/1909.01646"
 url_preprint = ""
-url_code = "dvs"
+url_code = "https://github.com/leox1v/FirstTextWorldProblems"
 url_dataset = ""
 url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
+url_slides = "https://slideslive.com/38921892/kr2ml-3-knowledge-representation-and-reasoning-meets-machine-learning"
+url_video = "https://www.youtube.com/watch?v=69IjNZaoeao"
+url_poster = "poster/ftwp.pdf"
 url_source = ""
-url_abc = "def"
-
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -88,3 +86,4 @@ doi = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
