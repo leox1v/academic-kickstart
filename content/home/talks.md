@@ -1,23 +1,27 @@
 +++
 # Recent and Upcoming Talks widget.
-widget = "talks"
-active = false
-date = 2016-04-20T00:00:00
+widget = "pages"
+active = true
+weight = 6
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "talk"
+
 # Order that this section will appear in.
-weight = 30
+
 
 # Number of talks to list.
-count = 10
+count = 6
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+view = 0
 
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
