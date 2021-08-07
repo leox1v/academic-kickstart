@@ -20,6 +20,14 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Computational Intelligence Lab"
+  organization = "ETH Zurich"
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = "2021-12-01"
+  description = ""
+
+[[item]]
   title = "Natural Language Understanding"
   organization = "ETH Zurich"
   certificate_url = ""
@@ -32,7 +40,7 @@ date_format = "2006"
   organization = "ETH Zurich"
   certificate_url = ""
   date_start = "2018-09-01"
-  date_end = "2019-12-01"
+  date_end = "2021-12-01"
   description = ""
 
 [[item]]

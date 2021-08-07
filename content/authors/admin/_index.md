@@ -98,7 +98,7 @@ interests = [
 
 +++
 
-I am a second year PhD student in the [Data Analytics Lab](http://da.inf.ethz.ch/index.php) at ETH Zurich. Currently, I'm working on natural language processing and non-convex optimization.
+I am a fourth year PhD student in the [Data Analytics Lab](http://da.inf.ethz.ch/index.php) at ETH Zurich. Currently, I'm working on natural language processing and non-convex optimization.
 
 Prior to this, I obtained a Master’s degree from ETH in Computer Science and a Bachelor’s degree from KIT Karlsruhe in electrical engineering. 
 
