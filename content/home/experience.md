@@ -23,9 +23,36 @@ date_format = "January 2006"
   title = "PhD Research Intern"
   company = "Facebook AI Research"
   company_url = ""
+  location = "New York, USA"
+  date_start = "2022-07-05"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "PhD Research Consultant"
+  company = "Google Zurich"
+  company_url = ""
+  location = "Zurich, Switzerland"
+  date_start = "2022-02-01"
+  date_end = "2022-06-30"
+  description = ""
+
+[[experience]]
+  title = "PhD Research Intern"
+  company = "Facebook AI Research"
+  company_url = ""
   location = "Remote"
   date_start = "2021-07-05"
-  date_end = ""
+  date_end = "2021-10-22"
+  description = ""
+
+[[experience]]
+  title = "PhD Research Consultant"
+  company = "Google Zurich"
+  company_url = ""
+  location = "Zurich, Switzerland"
+  date_start = "2021-01-01"
+  date_end = "2021-06-30"
   description = ""
 
 [[experience]]

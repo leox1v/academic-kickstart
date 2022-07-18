@@ -1,10 +1,10 @@
 +++
-title = "Local Saddle Point Optimization: A Curvature Exploitation Approach"
-date = "2018-05-15"
-draft = false
+title = "Language Models that Seek for Knowledge: Modular Search & Generation for Dialogue and Prompt Completion"
+date = "2022-03-24"
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Adolphs", "H Daneshmand", "A Lucchi", "T Hofmann"]
+authors = ["Kurt Shuster", "Mojtaba Komeili", "**Leonard Adolphs**", "Stephen Roller", "Arthur Szlam", "Jason Weston"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["L Adolphs", "H Daneshmand", "A Lucchi", "T Hofmann"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AISTATS 2019"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "AISTATS 2019<br /><br />Gradient-based optimization methods are the most popular choice for ﬁnding local optima for classical minimization and saddle point problems. Here, we highlight a systemic issue of gradient dynamics that arise for saddle point problems, namely the presence of undesired stable stationary points that are no local optima. We propose a novel optimization approach that exploits curvature information in order to escape from these undesired stationary points. We prove that diﬀerent optimization methods, including gradient method and Adagrad, equipped with curvature exploitation can escape non-optimal stationary points. We also provide empirical results on common saddle point problems which conﬁrm the advantage of using curvature exploitation."
+abstract = ""
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -48,33 +48,16 @@ slides = ""
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1805.05751"
+url_pdf = "https://arxiv.org/abs/2203.13224"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=Ty9LrkqRFdg&t=185s"
-url_poster = "poster/local_saddle_opt.pdf"
+url_video = ""
+url_poster = ""
 url_source = ""
-
-[[url_custom]]
-    name = "arXiv"
-    url = "https://arxiv.org/abs/1805.05751"
-
- [[url_custom]]
-    name = "Poster"
-    url = "poster/local_saddle_opt.pdf"
-
-[[url_custom]]
-    name = "YouTube"
-    url = "https://www.youtube.com/watch?v=Ty9LrkqRFdg&t=185s"
-
-
 
 
 
@@ -91,3 +74,4 @@ doi = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
